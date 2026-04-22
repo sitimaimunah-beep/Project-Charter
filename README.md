@@ -19,7 +19,7 @@ ACADORA merupakan sistem berbasis web yang dirancang untuk mendukung dan mengelo
 * Evaluasi Dosen oleh Mahasiswa (EDOM)
 * Konsultasi Bimbingan Akademik
 * Pengajuan Revisi Nilai
-* Akses Hasil/Nilai Akademik
+* Bukti Tagihan Akademik
 
 ## 👥 Tim Pengembang
 
