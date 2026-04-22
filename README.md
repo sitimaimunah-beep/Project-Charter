@@ -23,12 +23,12 @@ ACADORA merupakan sistem berbasis web yang dirancang untuk mendukung dan mengelo
 
 ## 👥 Tim Pengembang
 
-* Project Manager:
-* System Analyst:
-* UI/UX Designer:
-* Backend Developer:
-* Frontend Developer:
-* QA & Tester:
+* Project Manager: Siti Maimunah
+* System Analyst: Siti Maimunah
+* UI/UX Designer: Yeni Setiyawati
+* Backend Developer: Assyifa Anindya Firzy
+* Frontend Developer: Sherlya Syafani
+* QA & Tester: Tiara Permata Hagy
 
 ## ⏳ Estimasi Waktu
 
