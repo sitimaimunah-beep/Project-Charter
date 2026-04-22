@@ -89,6 +89,7 @@ Sistem ACADORA mencakup:
 | Dosen     | Lihat Evaluasi |
 | Admin     | Kelola Data Akademik |
 
+![Use Case Diagram](diagram/usecase.png)
 ---
 
 ## 6. Alur Sistem (Contoh: Pengisian KRS)
