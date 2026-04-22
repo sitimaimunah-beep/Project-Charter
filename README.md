@@ -46,6 +46,10 @@ Estimasi pengerjaan proyek: **8 Minggu**
 * Backend: (akan ditentukan)
 * Database: (akan ditentukan)
 
+## 📄 Dokumentasi
+- [Analisis Kebutuhan](docs/SRS.md)
+- [Use Case Diagram](docs/diagram/usecase.png)
+
 ## 📁 Struktur Repository
 
 ```bash
