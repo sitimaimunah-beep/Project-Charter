@@ -48,7 +48,7 @@ Estimasi pengerjaan proyek: **8 Minggu**
 
 ## 📄 Dokumentasi
 - [Analisis Kebutuhan](docs/SRS.md)
-- [Use Case Diagram Pengisian KRS](/docs/sistem_pengisian_krs.drawio.png)
+- [Use Case Diagram Pengisian KRS](/docs/sistem_pengisian_krs.png)
 
 ## 📁 Struktur Repository
 
