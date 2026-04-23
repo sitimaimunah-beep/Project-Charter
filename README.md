@@ -5,7 +5,7 @@
 
 ## 📌 Deskripsi Proyek
 
-ACADORA merupakan sistem berbasis web yang dirancang untuk mendukung dan mengelola layanan akademik mahasiswa secara terintegrasi. Sistem ini bertujuan untuk mempermudah proses akademik seperti pengisian KRS, evaluasi dosen, konsultasi akademik, pengajuan revisi nilai, serta akses terhadap hasil akademik.
+ACADORA merupakan sistem berbasis web yang dirancang untuk mendukung dan mengelola layanan akademik mahasiswa secara terintegrasi. Sistem ini bertujuan untuk mempermudah proses akademik seperti pengisian KRS, evaluasi dosen, konsultasi akademik, pengajuan revisi nilai, serta melihat riwayat pembayaran.
 
 ## 🎯 Tujuan
 
