@@ -48,7 +48,7 @@ Estimasi pengerjaan proyek: **8 Minggu**
 
 ## 📄 Dokumentasi
 - [Analisis Kebutuhan](docs/SRS.md)
-- [Use Case Diagram](docs/diagram/usecase.png)
+- [Use Case Diagram](docs/Use Case Diagram.png)
 
 ## 📁 Struktur Repository
 
